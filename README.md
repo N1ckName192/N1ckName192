@@ -1,3 +1,3 @@
 # hello everyone
 
-python developer
+python developer 🐍
