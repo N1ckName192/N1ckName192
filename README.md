@@ -1,4 +1,21 @@
-<div align="center"> 
-  <img src="https://i.gifer.com/6WIs.gif" width="600" height="300" alt="GIF"/>
-</div>
+# hello everynyan
 
+18 yo typescript developer
+
+head of [thedvxchsquad](https://github.com/thedvxchsquad), maintainer of [better samp](https://github.com/better-samp) (dead...?) 
+
+## 😼 my awesome projects
+
+1. [`shikimori`](https://github.com/neverlane/shikimori) - [shikimori api](https://shikimori.one/api/doc) wrapper for **node.js** and **browser**
+2. [`kodikwrapper`](https://github.com/thedvxchsquad/kodikwrapper) - [kodik api](https://bd.kodik.biz/api/info) wrapper for **node.js** and **browser**
+3. [`reactlab-bypass`](https://github.com/neverlane/reactlab-bypass) - bypass reactlab antiddos protection
+4. [`node-snet`](https://github.com/neverlane/node-snet) - port luajit snet for node
+5. [`moon-tabler-icons`](https://github.com/neverlane/moon-tabler-icons) - [tabler-icons](https://github.com/tabler/tabler-icons) for [moonloader](https://blast.hk/moonloader)
+
+## ✉️ contact with me
+
+telegram: [**@neverlane**](https://neverlane.t.me/)
+
+vk (you can be ignored): [**@neverlane**](https://vk.com/neverlane)
+
+email: [**lane@dvxchsquad.dev**](mailto:lane@dvxchsquad.dev)
